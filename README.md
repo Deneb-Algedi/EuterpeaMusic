@@ -10,7 +10,7 @@
   2) MIDI
   
   ## Installing
-  Install Haskell : 
+  * Install Haskell : 
   
   On Linux Ubuntu 
   
