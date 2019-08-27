@@ -9,7 +9,11 @@
   
   2) MIDI
   
+  3) verde.hs as sample file
+  
   ## Installing
+  * Download verde.hs
+  
   * Install Haskell : 
   
       On Linux Ubuntu 
@@ -35,7 +39,7 @@
   
     $ timidity -iA -Os
     
-  * On new terminal window
+  * On new terminal window in verde.hs directory 
   
     $ ghci
     $ :load verde.hs 
@@ -44,5 +48,5 @@
     $ devices 
     Timidity should appear on Output devices
     
-    $playDev 2 verde
+    $ playDev 2 verde
   
