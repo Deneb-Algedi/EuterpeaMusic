@@ -26,9 +26,10 @@
      
      $ cabal install Euterpea
   
+  * MIDI on Linux
+     $ sudo apt-get install timidity
   
   ## How to use
-  
-  
+   
   
   
