@@ -26,10 +26,12 @@
      
      $ cabal install Euterpea
   
-  * MIDI on Linux
+  * MIDI on Linux using Timidity 
+  
      $ sudo apt-get install timidity
   
   ## How to use
-   
+  * Start timidity:
+    timidity -iA -Os
   
   
