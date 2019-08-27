@@ -5,9 +5,9 @@
   Simple class project using Haskell's Euterpea music library.
  
   ## Prerequisites
-  Have Haskell and Euterpea installed.
+  1) Have Haskell and Euterpea installed.
   
-  MIDI
+  2) MIDI
   
   ## Installing
   Intall Haskell : 
