@@ -47,9 +47,7 @@
     
     $ import Euterpea 
     
-    $ devices 
-    
-    Timidity should appear on Output devices
+    $ devices // Timidity should appear on Output devices
     
     $ playDev 2 verde
   
