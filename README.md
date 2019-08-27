@@ -42,7 +42,9 @@
   * On new terminal window in verde.hs directory 
   
     $ ghci
+    
     $ :load verde.hs 
+    
     $ import Euterpea 
     
     $ devices 
