@@ -16,9 +16,14 @@
   
   $ sudo apt-get install haskell-platform
   
-  Others
+  Others available here
   
   https://www.haskell.org/platform/
+  
+  Installing Euterpea : 
+  
+  $ cabal update
+  $ cabal install Euterpea
   
   
   ## How to use
