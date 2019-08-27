@@ -6,6 +6,7 @@
  
   ## Prerequisites
   Have Haskell and Euterpea installed.
+  
   MIDI
   
   ## Installing
