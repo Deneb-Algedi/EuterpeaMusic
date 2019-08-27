@@ -12,18 +12,18 @@
   ## Installing
   * Install Haskell : 
   
-  On Linux Ubuntu 
+      On Linux Ubuntu 
   
-  $ sudo apt-get install haskell-platform
+      $ sudo apt-get install haskell-platform
   
-  Others available here
+      Others available here
   
-  https://www.haskell.org/platform/
+      https://www.haskell.org/platform/
   
-  Installing Euterpea : 
+  * Installing Euterpea : 
   
-  $ cabal update
-  $ cabal install Euterpea
+     $ cabal update
+     $ cabal install Euterpea
   
   
   ## How to use
