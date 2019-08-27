@@ -33,6 +33,16 @@
   ## How to use
   * Start timidity:
   
-    timidity -iA -Os
+    $ timidity -iA -Os
+    
+  * On new terminal window
   
+    $ ghci
+    $ :load verde.hs 
+    $ import Euterpea 
+    
+    $ devices 
+    Timidity should appear on Output devices
+    
+    $playDev 2 verde
   
