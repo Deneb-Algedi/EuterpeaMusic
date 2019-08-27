@@ -10,12 +10,14 @@
   2) MIDI
   
   ## Installing
-  Intall Haskell : 
+  Install Haskell : 
   
   On Linux Ubuntu 
+  
   $ sudo apt-get install haskell-platform
   
   Others
+  
   https://www.haskell.org/platform/
   
   
