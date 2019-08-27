@@ -32,6 +32,7 @@
   
   ## How to use
   * Start timidity:
+  
     timidity -iA -Os
   
   
