@@ -23,6 +23,7 @@
   * Installing Euterpea : 
   
      $ cabal update
+     
      $ cabal install Euterpea
   
   
