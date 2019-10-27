@@ -1,5 +1,5 @@
 # EuterpeaMusic
-  High Level Programming Languages - CCOM4029  
+  Haskell 
   
   ## General info
   Simple class project using Haskell's Euterpea music library.
